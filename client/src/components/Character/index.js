@@ -73,7 +73,7 @@ const Character = ({ character, allCharacters, setAllChars, setShowModal, locati
         setActive(true)
         setAllyField("none")
         setNoteField("none")
-        setAllChars([...allCharacters, { ...formState }])
+        setAllChars([...allCharacters, { ...data.createCharacter  }])
         setShowModal(false)
     }
     // note to self the modal updates, but the list outside of this does not, how traverse files?
