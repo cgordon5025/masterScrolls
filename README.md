@@ -1,8 +1,7 @@
 # MasterScrolls
-A productivity board for DMs and GMs
 
 ## Description
-
+A productivity board for DMs and GMs
 ## Installation
 No installation is necessary in order to use the application. Please visit [this link](https://masterscrolls.herokuapp.com) in order to start using the application.
 ## Usage
